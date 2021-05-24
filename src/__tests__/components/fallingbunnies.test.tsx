@@ -19,7 +19,7 @@ it("renders correctly", () => {
           class="sc-gtsrHT hapMyl"
         >
           <svg
-            class="sc-bdnxRM fngDZl"
+            class="sc-bdnxRM lhvKkK"
             color="text"
             height="32"
             viewBox="0 0 32 32"

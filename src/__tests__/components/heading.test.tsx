@@ -7,7 +7,7 @@ it("renders correctly", () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       <h2
-        class="sc-bdnxRM sc-gtsrHT jCdaoE jEARnz"
+        class="sc-bdnxRM sc-gtsrHT fCBYDP jEARnz"
         color="text"
       >
         Title

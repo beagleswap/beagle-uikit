@@ -9,10 +9,10 @@ it("renders correctly", () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       <div
-        class="sc-gtsrHT sc-hKFxyN krFeZe fKcHcZ"
+        class="sc-gtsrHT sc-hKFxyN krFeZe iAfeHA"
       >
         <input
-          class="sc-dlnjwi sc-eCApnc kAUIix fxhSfI"
+          class="sc-dlnjwi sc-eCApnc etIkrP iPiHro"
           inputmode="decimal"
           min="0"
           pattern="^[0-9]*[.,]?[0-9]*$"
@@ -21,7 +21,7 @@ it("renders correctly", () => {
           value="14"
         />
         <div
-          class="sc-bdnxRM knPZGf"
+          class="sc-bdnxRM zMOCr"
           color="textSubtle"
           font-size="12px"
         >

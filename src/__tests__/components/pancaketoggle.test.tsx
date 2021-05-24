@@ -9,7 +9,7 @@ it("renders correctly", () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       <div
-        class="sc-bdnxRM llNqlm"
+        class="sc-bdnxRM blKopC"
         scale="md"
       >
         <input
@@ -51,7 +51,7 @@ it("renders correctly scale sm", () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       <div
-        class="sc-bdnxRM digcXA"
+        class="sc-bdnxRM kWLfLA"
         scale="sm"
       >
         <input

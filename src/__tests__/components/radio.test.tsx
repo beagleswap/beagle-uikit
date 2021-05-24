@@ -7,7 +7,7 @@ it("renders correctly", () => {
   expect(asFragment()).toMatchInlineSnapshot(`
     <DocumentFragment>
       <input
-        class="sc-bdnxRM lnGoSn"
+        class="sc-bdnxRM dLpsAW"
         name="radio"
         scale="md"
         type="radio"
